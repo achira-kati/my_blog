@@ -13,8 +13,9 @@ const config: QuartzConfig = {
     enableSPA: true,
     enablePopovers: true,
     analytics: {
-      provider: "clarity",
-      projectId: "qedq377f5b",
+      provider: "posthog",
+      apiKey: "phc_ELvqeLzs60znLspEckuJaluYe1Yt1sXYM1Ad9amY03F",
+      host: "https://us.i.posthog.com",
     },
     locale: "en-US",
     baseUrl: "katiachira.com",
