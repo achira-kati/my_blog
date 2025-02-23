@@ -7,7 +7,7 @@ Hello, I'm **Achira Artnaseaw** (nickname: **kati (กะทิ)**)! I'm current
 
 I interest in diffusion models, score-based models, and multi-modal techniques—including training, evaluation, and inference.
 
-My future goals include inventing useful models that help others in their work and pursuing further studies with an M.S. and eventually a Ph.D. I created this blog to share my understanding and insights, and I truly believe that teaching others is one of the best ways to deepen my own knowledge. If you notice any mistakes in my math or concepts, feel free to contribute by opening a pull request on my GitHub.
+My future goals include inventing useful models that help others in their work and pursuing further studies with an M.S. and eventually a Ph.D. I created this blog to share my understanding and insights, and I truly believe that teaching others is one of the best ways to deepen my own knowledge. If you notice any mistakes in my math or concepts, feel free to contribute by opening a pull request on my [GitHub](https://github.com/achira-kati/my_blog/tree/v4/content).
 
 ---
 
