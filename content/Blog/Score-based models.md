@@ -1,4 +1,5 @@
 [Summary video (Thai)](https://youtu.be/OuMZitWJ864)
+
 This post builds on the ideas presented in the [video](https://www.youtube.com/watch?v=B4oHJpEJBAA) and the accompanying [paper blog](https://yang-song.net/blog/2021/score/).
 
 > **TL;DR;**
