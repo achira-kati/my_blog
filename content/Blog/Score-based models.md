@@ -1,4 +1,5 @@
 This post builds on the ideas presented in the [video](https://www.youtube.com/watch?v=B4oHJpEJBAA) and the accompanying [paper blog](https://yang-song.net/blog/2021/score/).
+[Summary video (Thai)](https://youtu.be/OuMZitWJ864)
 
 > **TL;DR;**
 > A score-based model is built to estimate $p(x)$ by using the score function. For any input point in the data space, the model predicts its score, which indicates the direction to higher probability (understanding the score function's meaning is key). Inference uses Langevin dynamics sampling, iteratively applying the model (ideally many times) to move the input towards higher probability areas, resulting in a final sample from the highest probability area.
@@ -359,4 +360,3 @@ Therefore, we can start from a sample from $p_T$, integrate the ODE in the rever
 $$
 d\mathbf{x} = -\frac{1}{2}\sigma^{2t} s_\theta(\mathbf{x}, t) dt
 $$
-

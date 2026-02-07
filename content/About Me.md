@@ -1,4 +1,4 @@
-![[IMG_0039_screenshot_2.JPG|256]]
+![[channels4_profile.jpg|256]]
 
 Hello, I'm **Achira Artnaseaw** (nickname: **kati (กะทิ)**)! I'm currently in my 3rd year of Computer Engineering B.S. at Khon Kaen University, Khon Kaen, Thailand.
 
