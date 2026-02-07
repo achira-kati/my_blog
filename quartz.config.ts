@@ -18,7 +18,7 @@ const config: QuartzConfig = {
       host: "https://us.i.posthog.com",
     },
     locale: "en-US",
-    baseUrl: "katiachira.com",
+    baseUrl: "dekubkati.com/blog",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     generateSocialImages: false,
